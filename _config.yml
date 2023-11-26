@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Pack 3197 homepage
 description: Bookmark this to keep an eye on my Pack 3197 updates!
+
+plugins:
+  - jemoji
