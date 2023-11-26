@@ -4,7 +4,6 @@
 We are part of the Heart of America council.
 * [Calendar Here](https://www.hoac-bsa.org/calendar)
 
-
 # From Leaders to Parents
 ## Scoutbook
 In my experience scoutbook has been terribly frustrating as a means of communication. It mostly doesn't work, and when it does, it gets caught by spam filters or out of date email addresses. It almost always works better to simply ignore it, and use email.
