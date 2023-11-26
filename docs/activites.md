@@ -21,6 +21,7 @@ Location: {LOCATION DESCRIPTION, WITH LINKS FROM ABOVE HERE}
 ```
 
 # Fishing at Meadowbrook
+
 | | |
 | --- | --- |
 | :money_with_wings: | Free |
@@ -43,6 +44,7 @@ Location: {LOCATION DESCRIPTION, WITH LINKS FROM ABOVE HERE}
 
 
 # Hike in SM Environment Science Lab
+
 | | |
 | --- | --- |
 | :money_with_wings: | Free |

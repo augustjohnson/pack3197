@@ -1,5 +1,6 @@
 
 # Regatta Template
+
 | | |
 | --- | --- |
 | :money_with_wings: | Cheap |
